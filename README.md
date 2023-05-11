@@ -72,6 +72,12 @@ The following libraries were used in this project:
 * `ast`
 * `pickle`
 
+The libraries can be installed by running the following code in your terminal:
+
+```bash
+   pip install -r requirements.txt
+```
+
 ## Results
 
 The following images are the recommendation system:
